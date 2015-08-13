@@ -65,6 +65,7 @@ I have build this utility to generate the whole `SubjectAltName`, in turn encodi
 
 ## Sources
 
+  *  http://www.h5l.org/manual/HEAD/info/heimdal/Setting-up-PK_002dINIT.html
   *  https://bugzilla.redhat.com/show_bug.cgi?id=674684
   *  Wilper, Ross; rwilper@stanford.edu
   *  http://pyasn1.sourceforge.net/tagging.html
